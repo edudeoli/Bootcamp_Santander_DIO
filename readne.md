@@ -32,13 +32,20 @@ Certifique-se de ter instalado os seguintes requisitos antes de executar os scri
 
 Python (versão 3.9.13)
   -Bibliotecas: pandas, matplotlib, openpyxl
+  
   -Executando o Projeto
+  
   -Clone este repositório para o seu ambiente local.
+  
   -Coloque o arquivo CSV fornecido pelo banco na pasta 'data'.
+  
   -Execute o script de processamento de dados fornecido em 'scripts'.
+  
   -Verifique os resultados gerados em 'datasets' e 'images'.
+  
   -*Observações*
+  
   Este projeto tem como foco a resolução do desafio proposto pelo banco, e os resultados obtidos são baseados nos dados fornecidos. Caso haja alguma dúvida ou sugestão de melhoria, sinta-se à vontade para entrar em contato.
 
-Autor: Eduardo Ojr
-Contato: edu.deoli@gmai.com
+**Autor**: Eduardo Ojr
+**Contato**: edu.deoli@gmai.com
