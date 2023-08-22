@@ -12,10 +12,10 @@ Gráficos de Distribuição por Gênero: Para cada país, geraremos um gráfico 
 Análise de Faixa Etária com Maior Score de Crédito: Realizaremos uma análise da faixa etária com o maior score de crédito entre todos os países. Vamos responder à pergunta utilizando os dados disponíveis.
 
 ### Estrutura do Repositório
-**data**: Este diretório conterá o arquivo CSV fornecido pelo banco contendo os dados dos clientes.
-**scripts**: Aqui você encontrará os scripts em Python utilizados para processar os dados e gerar os datasets, gráficos e análises necessárias.
-**datasets**: Os datasets individuais para cada país, em formato Excel, serão armazenados neste diretório.
-**images**: As imagens dos gráficos gerados serão salvas aqui.
+-**data**: Este diretório conterá o arquivo CSV fornecido pelo banco contendo os dados dos clientes.
+-**scripts**: Aqui você encontrará os scripts em Python utilizados para processar os dados e gerar os datasets, gráficos e análises necessárias.
+-**datasets**: Os datasets individuais para cada país, em formato Excel, serão armazenados neste diretório.
+-**images**: As imagens dos gráficos gerados serão salvas aqui.
 
 ### Resultados
 Após a execução dos scripts, você encontrará os seguintes resultados:
