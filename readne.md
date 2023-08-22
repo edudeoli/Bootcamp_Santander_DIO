@@ -13,8 +13,11 @@ Análise de Faixa Etária com Maior Score de Crédito: Realizaremos uma análise
 
 ### Estrutura do Repositório
 -**data**: Este diretório conterá o arquivo CSV fornecido pelo banco contendo os dados dos clientes.
+
 -**scripts**: Aqui você encontrará os scripts em Python utilizados para processar os dados e gerar os datasets, gráficos e análises necessárias.
+
 -**datasets**: Os datasets individuais para cada país, em formato Excel, serão armazenados neste diretório.
+
 -**images**: As imagens dos gráficos gerados serão salvas aqui.
 
 ### Resultados
