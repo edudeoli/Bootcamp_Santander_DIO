@@ -48,5 +48,6 @@ Python (versão 3.9.13)
   Este projeto tem como foco a resolução do desafio proposto pelo banco, e os resultados obtidos são baseados nos dados fornecidos. Caso haja alguma dúvida ou sugestão de melhoria, sinta-se à vontade para entrar em contato.
 
 **Autor**: Eduardo Ojr
+
 **Contato**: edu.deoli@gmai.com
 
