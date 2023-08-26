@@ -37,11 +37,11 @@ Python (versão 3.9.13)
   
   -Clone este repositório para o seu ambiente local.
   
-  -Coloque o arquivo CSV fornecido pelo banco na pasta 'data'.
+  -Coloque o arquivo CSV fornecido pelo banco na pasta 'dataset_churn.csv'.
   
-  -Execute o script de processamento de dados fornecido em 'scripts'.
+  -Execute o script de processamento de dados fornecido em 'desafio_santander.ipynb'.
   
-  -Verifique os resultados gerados em 'datasets' e 'images'.
+  -Verifique os resultados gerados.
   
   -*Observações*
   
